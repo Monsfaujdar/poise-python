@@ -1,4 +1,4 @@
-# Poise-Python Cookbook
+# Poise-Python CookBook
 
 [![Build Status](https://img.shields.io/travis/poise/poise-python.svg)](https://travis-ci.org/poise/poise-python)
 [![Gem Version](https://img.shields.io/gem/v/poise-python.svg)](https://rubygems.org/gems/poise-python)
